@@ -6,7 +6,10 @@
 <br>
 ・以下のようなニューラルネットワークを構成した。
 <br>
-![image](https://github.com/user-attachments/assets/9c8afc6b-a6b7-4585-a790-652d7690d912)
+![image](https://github.com/user-attachments/assets/94e9a029-0aca-45bb-a8a3-3fb1a28e076b)
+
+
+
 
 
 
