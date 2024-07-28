@@ -3,12 +3,13 @@
 
 # 構造説明
 <br>
---------------------------------------
 <br>
 ・以下のようなニューラルネットワークを構成した。
+<br>
 
 
-
+<br>
+<br>
 https://www.kaggle.com/code/deki666/start-with-titanic-keras
 
 
