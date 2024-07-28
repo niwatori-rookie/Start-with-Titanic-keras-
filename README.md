@@ -6,6 +6,9 @@
 <br>
 ・以下のようなニューラルネットワークを構成した。
 <br>
+![image](https://github.com/user-attachments/assets/9c8afc6b-a6b7-4585-a790-652d7690d912)
+
+
 
 
 <br>
